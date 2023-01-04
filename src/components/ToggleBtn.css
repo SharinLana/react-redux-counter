@@ -1,0 +1,16 @@
+.toggleBtn {
+  width: 120px;
+  padding: 10px 0px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 4px #0083c9ba;
+  background-color: #ffc93c;
+  color: #014569ba;
+  margin-top: 20px;
+}
+
+.toggleBtn:hover {
+  background-color: #5bc0f8;
+  color: white;
+}

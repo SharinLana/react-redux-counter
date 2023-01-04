@@ -1,0 +1,17 @@
+.header-container {
+  margin-top: 80px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 45px;
+  background: linear-gradient(to left, #0081c9, #5bc0f8, #ffc93c);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+p {
+  font-size: 30px;
+  font-style: italic;
+  color: #0081c9;
+}
