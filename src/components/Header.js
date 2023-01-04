@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header-container">
       <h2>React Redux Counter</h2>
-      <p>Classic approach</p>
+      <p>Redux Toolkit</p>
     </div>
   );
 };

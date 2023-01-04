@@ -5,7 +5,7 @@
 
 h2 {
   font-size: 45px;
-  background: linear-gradient(to left, #0081c9, #5bc0f8, #ffc93c);
+  background: linear-gradient(to left, #0081c9, #3b185f, #c060a1);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
@@ -13,5 +13,5 @@ h2 {
 p {
   font-size: 30px;
   font-style: italic;
-  color: #0081c9;
+  color: #00005c;
 }
