@@ -1,4 +1,4 @@
-# Task App (React.js)
+# Counter App (React-Redux.js)
 
 `You are on the classic-redux branch. 
 Here the counter logic has been built using a classic Redux approach`
@@ -10,10 +10,10 @@ Here the counter logic has been built using a classic Redux approach`
 - increase the number by 5;
 - open and close the counter (the counter number will be returned back to 0 on close)
 
-`NOTE: The app was created using 2 different approaches:
+`NOTE: The app was created using 2 different approaches:`
 
 - the first uses the classic Redux approach;
-- the second approach uses the Redux toolkit (switch to the 'redux-toolkit' branch to view the code).`
+- the second approach uses the Redux toolkit (switch to the 'redux-toolkit' branch to view the code).
 
 ## The goals of creating this application:
 
