@@ -1,10 +1,17 @@
-.counter-container {
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inner-container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.counter-btn {
+.counter-btn,
+.add10-btn {
   width: 50px;
   height: 50px;
   border: none;
@@ -16,7 +23,15 @@
   background-color: #00005c;
 }
 
+.add10-btn {
+  width: 140px;
+  font-size: 25px;
+  margin-top: 0;
+}
+
 .counter {
   font-size: 40px;
   color: white;
+  width: 80px;
+  text-align: center;
 }

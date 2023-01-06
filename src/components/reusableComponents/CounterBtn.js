@@ -1,7 +1,7 @@
 import React from "react";
 
-const CounterBtn = ({ children, className }) => {
-  return <button className={className}> {children} </button>;
+const CounterBtn = ({ children, className, onClick }) => {
+  return <button className={className} onClick={onClick}> {children} </button>;
 };
 
 export default CounterBtn;
