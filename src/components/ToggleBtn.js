@@ -1,8 +1,9 @@
 import React from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import "./ToggleBtn.css";
 
 const ToggleBtn = () => {
+  const counterIsShown = useSelector(state => state.showCounter);
   const dispatch = useDispatch();
 
   const toggleCounterHandler = () => {
@@ -11,7 +12,7 @@ const ToggleBtn = () => {
 
   return (
     <button className="toggleBtn" onClick={toggleCounterHandler}>
-      Toggle
+      {counterIsShown ? "Close" : "Open"}
     </button>
   );
 };

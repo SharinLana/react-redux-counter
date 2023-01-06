@@ -30,4 +30,6 @@
 .counter {
   font-size: 40px;
   color: #5bc0f8;
+  width: 80px;
+  text-align: center;
 }
