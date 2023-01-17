@@ -15,6 +15,12 @@ Here the counter logic has been built using a classic Redux approach`
 - the first uses the classic Redux approach;
 - the second approach uses the Redux toolkit (switch to the 'redux-toolkit' branch to view the code).
 
+## To view the app in the browser, copy and paste the following line to your browser URL address bar:
+
+```
+https://sharinlana.github.io/react-dinnerDelivery-httpRequests/
+```
+
 ## The goals of creating this application:
 
 The main goals for me as a web developer were to improve my skills in working with:
