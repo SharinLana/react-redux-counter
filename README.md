@@ -15,6 +15,12 @@ Here the counter logic has been built using a Redux toolkit package`
 - the first uses the classic Redux approach (switch to the 'classic-redux' branch to view the code);
 - the second approach uses the Redux toolkit.
 
+## To view the app in the browser, copy and paste the following link to your browser address bar:
+
+```
+https://sharinlana.github.io/react-redux-counter/
+```
+
 ## The goals of creating this application:
 
 The main goals for me as a web developer were to improve my skills in working with:
